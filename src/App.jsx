@@ -97,7 +97,7 @@ export default function NetflixClone() {
 
         {/* IMAGEN DE FONDO */}
         <img
-          src="heal.jpg"
+          src="heal-1.jpg"
           className="absolute inset-0 w-full h-full object-cover"
         />
 
@@ -124,7 +124,7 @@ export default function NetflixClone() {
                 setSelectedMovie({
                   title: "Cada vez mas vieja",
                   description: "Este es el cumple de pili",
-                  image: "heal.jpg"
+                  image: "heal-1.jpg"
                 })
               }
               className="bg-gray-700 px-6 py-2 rounded"
