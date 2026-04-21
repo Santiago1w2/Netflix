@@ -107,7 +107,7 @@ const formatTime = (time) => {
     setSelectedMovie({
       title: "Cada vez mas vieja",
       description: "Este es el cumple de pili",
-      image: "/hero.jpg"
+      image: "p1.jpg"
     })
   }
   className="bg-gray-700 px-6 py-2 rounded"
