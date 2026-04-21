@@ -12,17 +12,17 @@ const [duration, setDuration] = useState(0);
 const videoRef = React.useRef(null);
   const profiles = [
     { name: "User 1", img: "p1.jpg" },
-    { name: "User 2", img: "/p2.jpg" },
-    { name: "User 3", img: "/p3.jpg" }
+    { name: "User 2", img: "p2.jpg" },
+    { name: "User 3", img: "p3.jpg" }
   ];
 
   const rows = [
     { title: "Trending Now", images: [
-  "img1.jpg","/img2.jpg","/img3.jpg",
-  "/img4.jpg","/img5.jpg"
+  "img1.jpg","img2.jpg","img3.jpg",
+  "img4.jpg","img5.jpg"
 ] },
-    { title: "Top Picks", images: ["/img4.jpg", "/img5.jpg", "/img6.jpg"] },
-    { title: "Watch Again", images: ["/img7.jpg", "/img8.jpg", "/img9.jpg"] }
+    { title: "Top Picks", images: ["img4.jpg", "img5.jpg", "img6.jpg"] },
+    { title: "Watch Again", images: ["img7.jpg", "img8.jpg", "img9.jpg"] }
   ];
 
   // 🔴 PANTALLA DE SELECCIÓN DE PERFIL
