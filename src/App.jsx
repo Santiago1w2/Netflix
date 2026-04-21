@@ -105,7 +105,7 @@ export default function NetflixClone() {
         <div className="absolute inset-0 bg-gradient-to-t from-black via-black/40 to-transparent" />
 
         {/* TODO TU CONTENIDO (NO SE TOCA) */}
-        <div className="relative z-10 p-8">
+        <div className="relative z-10 h-full flex flex-col justify-end p-8">
 
           <h2 className="text-4xl font-bold mb-4">
             Cada vez mas vieja
