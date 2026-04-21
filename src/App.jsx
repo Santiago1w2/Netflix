@@ -176,7 +176,7 @@ const formatTime = (time) => {
 <video
   ref={videoRef}
   className="w-full h-full object-contain bg-black"
-  src="/video.mp4"
+  src={import.meta.env.BASE_URL + "video.mp4"}
 
   onLoadedMetadata={() => {
     const v = videoRef.current;
