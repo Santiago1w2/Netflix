@@ -92,7 +92,7 @@ const formatTime = (time) => {
       {/* Hero Section */}
       <div
         className="h-[70vh] flex flex-col justify-end p-8 bg-cover bg-center"
-        style={{ backgroundImage: "url('p1.jpg')" }}
+        style={{ backgroundImage: "url('heal.jpg')" }}
       >
         <h2 className="text-4xl font-bold mb-4">Cada vez mas vieja</h2>
         <div className="space-x-4">
@@ -107,7 +107,7 @@ const formatTime = (time) => {
     setSelectedMovie({
       title: "Cada vez mas vieja",
       description: "Este es el cumple de pili",
-      image: "p1.jpg"
+      image: "heal.jpg"
     })
   }
   className="bg-gray-700 px-6 py-2 rounded"
