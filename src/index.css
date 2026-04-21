@@ -119,3 +119,6 @@ body {
 .scrollbar-hide::-webkit-scrollbar {
   display: none;
 }
+.hero {
+  image-rendering: auto;
+}
