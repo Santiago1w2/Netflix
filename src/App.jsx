@@ -11,7 +11,7 @@ const [duration, setDuration] = useState(0);
 
 const videoRef = React.useRef(null);
   const profiles = [
-    { name: "User 1", img: "p1.jpg" },
+    { name: "User 1", img: import.meta.env.BASE_URL + "p1.jpg" },
     { name: "User 2", img: "/p2.jpg" },
     { name: "User 3", img: "/p3.jpg" }
   ];
