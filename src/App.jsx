@@ -90,10 +90,12 @@ const formatTime = (time) => {
       </div>
 
       {/* Hero Section */}
-      <div
-        className="h-[70vh] flex flex-col justify-end p-8 bg-cover bg-center"
-        style={{ backgroundImage: "url('heal.jpg')" }}
-      >
+<div
+  className="h-[70vh] flex flex-col justify-end p-8 bg-cover bg-center"
+  style={{
+    backgroundImage: "linear-gradient(to top, rgba(0,0,0,0.9), rgba(0,0,0,0.2)), url('heal.jpg')"
+  }}
+>
         <h2 className="text-4xl font-bold mb-4">Cada vez mas vieja</h2>
         <div className="space-x-4">
           <button
