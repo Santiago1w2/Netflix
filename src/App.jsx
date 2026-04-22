@@ -24,7 +24,7 @@ export default function NetflixClone() {
       ]
     },
     { title: "Top Picks", images: ["img6.jpg", "img12.jpg", "img13.jpg","img14.jpg", "img15.jpg"] },
-    { title: "Favorite Series", images: ["img7.jpg", "img8.jpg", "img9.jpg", "img10.jpg", "img11.jpg",
+    { title: "Favorite Series", images: ["img7.jpg", "img8.jpg", "img9-1.jpg", "img10-1.jpg", "img11.jpg",
     ] }
   ];
 
