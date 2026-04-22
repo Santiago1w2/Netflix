@@ -197,7 +197,7 @@ export default function NetflixClone() {
             <video
               ref={videoRef}
               className="w-full h-full object-contain bg-black"
-              src={import.meta.env.BASE_URL + "video-1.mp4"}
+              src={import.meta.env.BASE_URL + "video-2.mp4"}
 
               onLoadedMetadata={() => {
                 const v = videoRef.current;
