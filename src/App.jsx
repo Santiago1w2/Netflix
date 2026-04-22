@@ -24,7 +24,8 @@ export default function NetflixClone() {
       ]
     },
     { title: "Top Picks", images: ["img4.jpg", "img5.jpg", "img6.jpg"] },
-    { title: "Watch Again", images: ["img7.jpg", "img8.jpg", "img9.jpg"] }
+    { title: "Favorite Series", images: ["img7.jpg", "img8.jpg", "img9.jpg", "img10.jpg", "img11.jpg",
+    ] }
   ];
 
   // 🔴 PANTALLA DE SELECCIÓN DE PERFIL
