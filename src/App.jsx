@@ -23,7 +23,7 @@ export default function NetflixClone() {
         "img4.jpg", "img5.jpg"
       ]
     },
-    { title: "Top Picks", images: ["img4.jpg", "img5.jpg", "img6.jpg"] },
+    { title: "Top Picks", images: ["img6.jpg", "img12.jpg", "img13.jpg","img14.jpg", "img15.jpg"] },
     { title: "Favorite Series", images: ["img7.jpg", "img8.jpg", "img9.jpg", "img10.jpg", "img11.jpg",
     ] }
   ];
