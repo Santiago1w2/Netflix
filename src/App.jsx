@@ -123,8 +123,8 @@ export default function NetflixClone() {
             <button
               onClick={() =>
                 setSelectedMovie({
-                  title: "Cada vez mas vieja",
-                  description: "Este es el cumple de pili",
+                  title: "Merly: 15 Años de Historia",
+                  description: "Esta es la historia de Merly Brenda Vara Portella, relata la historia de su vida, hasta la acutalidad que es donde cumple 15 años, es un momenot muy emotivo ya que esta pasando por una etapa que cambiara su vida, sus padres y familaires estan muy felicies por ella, y la aprecian demasidado, por eso la saludan y le desean un muy !FELIZ CUMPLEAÑOS!",
                   image: "heal-1.jpg"
                 })
               }
