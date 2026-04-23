@@ -109,7 +109,7 @@ export default function NetflixClone() {
         <div className="relative z-10 h-full flex flex-col justify-end p-8">
 
           <h2 className="text-4xl font-bold mb-4">
-            Cada vez mas vieja
+            Merly: 15 Años de Historia
           </h2>
 
           <div className="space-x-4">
