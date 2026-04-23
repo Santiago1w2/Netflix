@@ -124,7 +124,7 @@ export default function NetflixClone() {
               onClick={() =>
                 setSelectedMovie({
                   title: "Merly: 15 Años de Historia",
-                  description: "Esta es la historia de Merly Brenda Vara Portella, relata la historia de su vida, hasta la acutalidad que es donde cumple 15 años, es un momenot muy emotivo ya que esta pasando por una etapa que cambiara su vida, sus padres y familaires estan muy felicies por ella, y la aprecian demasidado, por eso la saludan y le desean un muy !FELIZ CUMPLEAÑOS!",
+                  description: "Esta es la historia de Merly Brenda Vara Portella: un recorrido por su vida, sus momentos más importantes y las experiencias que la han llevado hasta el presente. Hoy, en el día en que cumple 15 años, se abre un nuevo capítulo lleno de cambios, emociones y sueños por cumplir. En medio de esta etapa tan significativa, su familia y sus padres la acompañan con orgullo y alegría, celebrando cada paso que ha dado y recordándole cuánto la quieren y la valoran, deseandole un !FELIZ CUMPLEAÑOS!. Una historia real, cercana y emotiva, que captura el significado de crecer y comenzar a escribir el futuro. Géneros: Comedia, Drama Fecha de publicación: 2026 Duración: Especial Clasificación: Familiar",
                   image: "heal-1.jpg"
                 })
               }
